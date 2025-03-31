@@ -1,0 +1,13 @@
+name: Unterhaltungspaket
+display-name: Unterhaltungspaket
+author: S.martin
+version: 1.0.0
+dependencies:
+  Unterhaltungspaket-files: ^1.0.0
+  aiSwapper: ^1.1.0
+  files: ^1.1.0
+  aicloader: ^1.1.1
+  graphicsApiReplacer: ^1.2.0
+  ucp2-ai-files: ^2.15.1
+  ucp2-legacy: ^2.15.1
+type: plugin
