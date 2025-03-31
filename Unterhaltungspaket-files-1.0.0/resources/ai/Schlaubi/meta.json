@@ -1,0 +1,19 @@
+{
+  "name": "König Schlumpf",
+  "description": "Schlaubi Schlumpf fühlte sich nicht seiner Fähigkeiten angemessen behandelt und hat sich selbst zum König ernannt. Er weiß zwar seine Macht intern zu schlumpfen, aber eine schlumpfige Wirtschaft spielt halt nur in schlumpfigen Dimensionen ebenso wie die Militärführung. Dass seine Untertanen von seiner Machtergeifung nicht begeistert sind, braucht eigentlich auch keine Erwähnung.",
+  "author": "S.martin",
+  "link": "...",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}
