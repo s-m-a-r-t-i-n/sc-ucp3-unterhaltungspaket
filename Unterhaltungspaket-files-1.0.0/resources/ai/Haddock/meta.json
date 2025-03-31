@@ -1,0 +1,19 @@
+{
+  "name": "Haddock",
+  "description": "Der an Lebenserfahrung reiche, aber doch etwas impulsive Seebär hat zwei Leidenschaften: Die Seefahrt und den Alkohol. Mehr braucht er im Prinzip nicht. Solltet ihr ihn allerdings am falschen Fuß erwischt haben, dürft ihr euch auf Bombenhagel und Granaten einstellen...wenn er es schafft sich wieder aufzuraffen.",
+  "author": "S.martin",
+  "link": "...",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}
